@@ -97,7 +97,7 @@ BlueStacks > Settings > Preferences > Enable Android Debug Bridge (ADB)
 
 Install Python 3.7+ 64 bit
 
-pip install tensorflow PyQt5 opencv-python loguru pure-python-adb Pillow pytesseract
+pip install PyQt5 loguru pure-python-adb Pillow 
 
 
 # 
