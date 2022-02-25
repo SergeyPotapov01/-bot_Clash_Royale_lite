@@ -1,0 +1,24 @@
+Start
+Stop
+Get_trigger
+Reload_game
+Statistics batlle
+Battle results:
+Event log:
+log
+Opening chests
+Card request
+Combat mode
+Language selection
+Selecting a Query Card
+Bot settings
+Specify the port for the adb server
+Number of fights before the break
+Break time ( in minutes )
+ADB settings
+Debug
+Bot for farming crowns in
+About the program
+Change Account
+Selected  Account
+Total Accounts

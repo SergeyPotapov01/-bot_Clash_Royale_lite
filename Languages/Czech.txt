@@ -1,0 +1,24 @@
+Start
+Stop
+Získejte_spouštěče
+Znovu_načíst hru
+Statistika
+Výsledky bitvy
+Záznam událostí
+Log
+Otevřené truhly
+Karty žádostí
+Bitevní režim
+Výběr jazyka
+Běžná karta na vyžádání
+Nastavení robota
+Číslo portu serveru ADB
+Počet dokončení
+Doba přestávky (minuty)
+Nastavení ADB
+Ladit
+Bot pro Farming Crowns
+O programu
+Změna účtu
+Vybraný účet
+Celkový počet účtů

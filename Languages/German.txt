@@ -1,0 +1,24 @@
+Anfang
+Halt
+Auslöser_bekommen
+App_Neu Laden
+Statistiken
+Kampfergebnisse
+Ereignisprotokoll
+Protokoll
+Öffnen Truhen
+Karten Gesuchten
+Kampfmodus
+Sprachauswahl
+Auswählen einer Abfragezuordnung
+Botч Einstellungen
+Portnummer ADB-Server
+Anzahl der Fertigen
+Pausenzeit (Minuten)
+ADB
+Debuggen
+Bot zum Farmen von Kronen
+Über das Programm
+Account wechseln
+Ausgewähltes Konto
+Gesamtkonten
